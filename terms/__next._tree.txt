@@ -1,2 +1,2 @@
-:HL["/beatly-site/_next/static/chunks/01ze7z2xptfvk.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"terms","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"mgjIN_nQqW8ydPlXSea6y"}
+:HL["/beatly-site/_next/static/chunks/1xktffuy_fdza.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"terms","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"bjchjc82p09ahDIgYn9Rg"}
